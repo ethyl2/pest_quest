@@ -16,7 +16,7 @@ functions.
 
 -------------------------
 ### How to Run This Game ##
-Go to [The Pocket-Sized Pest Quest](https://ethyl2.github.io/frontend-nanodegree-arcade-game/).
+Go to [The Pocket-Sized Pest Quest](https://ethyl2.github.io/pest_quest/).
 Alternately, open the index.html file in a browser.
 
 ### How to Play ###
